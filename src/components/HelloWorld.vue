@@ -13,5 +13,6 @@
       </template>
       <span>Left tooltip</span>
     </v-tooltip>
+    <div class="alert alert-primary" role="alert" style="padding: 30%">Simple Alert Box</div>
   </div>
 </template>
